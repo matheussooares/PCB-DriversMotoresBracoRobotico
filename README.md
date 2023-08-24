@@ -15,3 +15,13 @@
 <p align="center">
     <img src="Figs/PCB driver motores footprint.png">
 </p>
+
+
+## Placa de Circuito Impresso 3D
+<p align="center">
+    <img src="Figs/PCB driver motores visualizaçao 3D.png">
+</p>
+
+<p align="center">
+    <img src="Figs/Visualizador-3D.gif">
+</p>
