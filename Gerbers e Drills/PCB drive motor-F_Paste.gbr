@@ -1,0 +1,27 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4)*%
+%TF.CreationDate,2023-08-24T18:54:07-03:00*%
+%TF.ProjectId,PCB drive motor,50434220-6472-4697-9665-206d6f746f72,rev?*%
+%TF.SameCoordinates,PX1a3bac8PY5add478*%
+%TF.FileFunction,Paste,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.4)) date 2023-08-24 18:54:07*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X0Y55523400D02*
+X143581400Y55523400D01*
+X143581400Y55523400D02*
+X143581400Y0D01*
+X143581400Y0D02*
+X0Y0D01*
+X0Y0D02*
+X0Y55523400D01*
+M02*
